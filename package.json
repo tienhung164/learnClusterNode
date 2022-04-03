@@ -1,0 +1,8 @@
+{
+  "name": "learnClusterNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tienhung164/learnClusterNode.git",
+  "author": "tienhung164 <hungvt164@gmail.com>",
+  "license": "MIT"
+}
